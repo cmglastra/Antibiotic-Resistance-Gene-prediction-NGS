@@ -1,6 +1,6 @@
 # Descripción del Proyecto
 
-Este repositorio recoge el codigo que se ha desarollado para la realizacion del TFM **Caracterización de resistencia bacteriana a antimicrobianos mediante NGS**
+Este repositorio recoge el código que se ha desarollado para la realizacion del TFM **Caracterización de resistencia bacteriana a antimicrobianos mediante NGS**
 
 ### [2024-08-01_analysis04_upsetplot.ipynb](2024-08-01_analysis04_upsetplot.ipynb)
 Genera gráficos de intersección (upset plots) para visualizar las intersecciones de conjuntos de genes. Utiliza el DataFrame `merged_df_blees_cpos_f99` para el procesamiento de datos y la visualización.
